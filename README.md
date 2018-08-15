@@ -1,5 +1,5 @@
 ## Sinatra Forms- Overview
-This video review lesson covers many of the concepts that you've learned about in this topic so far. To get the most out of these videos we recommend that you complete the Readings and Labs that come before it. 
+This video reviews the MVC framework, focusing mostly on the functions and structure of controllers. The video begins by explaining how to mount a controller and then outlines the 7 controller actions that display and modify data. Using a photo sharing website as an example, the video details how to set up a PostsController class that incorporates these 7 actions. Route Variables, Query Strings, and the params hash are defined and demonstrated within this example. The video then explains how to write an HTML form and then post that form to the website.
 
 ## Video
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/0TyCN_oJU3Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
