@@ -20,4 +20,4 @@ It is very important that students have a thorough understanding of Sinatra befo
 ## Video
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/0TyCN_oJU3Y?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-video-review-forms'>Sinatra Video Review: Forms</a> on Learn.co and start learning to code for free.</p>
+
